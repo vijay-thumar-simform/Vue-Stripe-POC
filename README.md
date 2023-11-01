@@ -29,6 +29,7 @@ Allow in prompt for enable client integration
 ![1 1 allow](https://github.com/vijay-thumar-simform/Vue-Stripe-POC/assets/134591697/9eeac319-60a3-4392-ab65-1037a58201e1)
 
 **Step 4:** Create Product Search for product like shown in images and create new one [Create Product](https://dashboard.stripe.com/products/create)
+![2](https://github.com/vijay-thumar-simform/Vue-Stripe-POC/assets/134591697/22075186-f9d6-4a16-a9bc-194f5a79b428)
 
 Make sure to include meta data into product **key: price value: 20**
 
